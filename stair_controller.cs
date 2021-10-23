@@ -54,8 +54,8 @@ public class stair_controller : MonoBehaviour
             case 1: text.text = "Roll the red cube counterclockwise."; break;
             case 2: text.text = "Pitch the red cube up."; break;
             case 3: text.text = "Yaw the red cube to the left."; break;
-            case 4: text.text = "Move the pink cube backwards."; break;
-            case 5: text.text = "Move the blue cube forward."; break;
+            case 4: text.text = "Move the pink cube away from you."; break; //case 4: text.text = "Move the pink cube backwards."; break;
+            case 5: text.text = "Move the blue cube towards you."; break; //case 5: text.text = "Move the blue cube forward."; break;
             case 6: text.text = "Roll the blue cube clockwise."; break;
             case 7: text.text = "Make the blue cube larger."; break;
             case 8: text.text = "Yaw the blue cube to the right."; break;
