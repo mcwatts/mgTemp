@@ -59,9 +59,9 @@ public class vertRec_controller : MonoBehaviour
             case 5: text.text = "Roll the red cube counterclockwise."; break;
             case 6: text.text = "Roll the orange cube clockwise."; break;
             case 7: text.text = "Yaw the orange cube to the left."; break;
-            case 8: text.text = "Move the blue cube forward."; break;
+            case 8: text.text = "Move the blue cube towards you."; break; //case 8: text.text = "Move the blue cube forward."; break;
             case 9: text.text = "Pitch the green cube down."; break;
-            case 10: text.text = "Move the green cube backward."; break;
+            case 10: text.text = "Move the green cube away from you."; break; //case 10: text.text = "Move the green cube backward."; break;
             case 11: text.text = "Yaw the green cube to the right."; break;
             case 12: text.text = "Move the green cube to the right."; break;
             case 13: text.text = "Move the pink cube up.";
