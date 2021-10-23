@@ -56,10 +56,10 @@ public class horRec_controller : MonoBehaviour
             case 2: text.text = "Roll the red cube counterclockwise."; break;
             case 3: text.text = "Make the red cube smaller."; break;
             case 4: text.text = "Pitch the pink cube up."; break;
-            case 5: text.text = "Move the pink cube backward."; break;
+            case 5: text.text = "Move the pink cube away from you."; break; //case 5: text.text = "Move the pink cube backward."; break;
             case 6: text.text = "Roll the green cube clockwise."; break;
             case 7: text.text = "Pitch the green cube down."; break;
-            case 8: text.text = "Move the green cube forward."; break;
+            case 8: text.text = "Move the green cube towards you."; break; //case 8: text.text = "Move the green cube forward."; break;
             case 9: text.text = "Yaw the orange cube to the right."; break;
             case 10: text.text = "Move the orange cube to the left."; break;
             case 11: text.text = "Move the red cube up."; break;
